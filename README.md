@@ -1,19 +1,21 @@
+<p align="left"> 
+  <h2>✌🏻 Oi! Tudo bem?</h2>
+  <p>Me chamo Nathália, tenho 20 anos e curso Sistemas de Informação na Unicamp e estou sempre buscando aprender mais. Aqui você pode conferi alguns dos meus projetos!</p>
+</p>
+
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<p align="left"> 
-  <h2>✌🏻 Sobre mim</h2>
+<p align="left">
+  <h3>🦄 Linguagens</h3> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naferrett&theme=synthwave&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 
 <p align="left">
-  <h2>🦄 Linguagens</h2> **Coloque as linguagens que você desenvolve.**
+  <h3>💼 Ferramentas</h3> **Coloque as suas ferramentas de trabalho.**
 </p>
 
 <p align="left">
-  <h2>💼 Ferramentas</h2> **Coloque as suas ferramentas de trabalho.**
-</p>
-
-<p align="left">
-  <h2>💌 Entre em contato comigo!</h2>
+  <h3>💌 Entre em contato comigo!</h3>
 </p>
 
 <p align="left">
