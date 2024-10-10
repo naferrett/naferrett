@@ -1,6 +1,6 @@
 <p align="left"> 
   <h2>✌🏻 Oi! Tudo bem?</h2>
-  <p>Me chamo Nathália, tenho 20 anos, curso Sistemas de Informação na Unicamp e estou sempre buscando aprender mais. Aqui você pode conferi alguns dos meus projetos!</p>
+  <p>Me chamo Nathália, tenho 20 anos, curso Sistemas de Informação na Unicamp e estou sempre buscando aprender mais. Aqui você pode conferir alguns dos meus projetos!</p>
 </p>
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
